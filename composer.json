@@ -1,5 +1,5 @@
 {
-	"name": "simonwelsh/gridfieldrelationhandler",
+	"name": "arillo/gridfieldrelationhandler",
 	"description": "This module provides two GridField components that aid in managing relationships within SilverStripe.",
 	"type": "silverstripe-module",
 	"license": "BSD-3-Clause",
